@@ -1,0 +1,14 @@
+.
+./CUSTOMIZATION.md
+./DEPLOYMENT.md
+./PROJECT_STRUCTURE.txt
+./QUICKSTART.txt
+./README.md
+./assets
+./assets/README.txt
+./css
+./css/style.css
+./index.html
+./js
+./js/script.js
+./{css,js,images,assets}
