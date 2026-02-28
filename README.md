@@ -1,7 +1,7 @@
 # Kingsukh Guest House - Website Redesign
 
 ## 📋 Project Overview
-This is a complete redesign of the Kingsukh Guest House website with modern UI/UX, clean code, and full responsiveness across all devices.
+This is a complete redesign of the Kingsukh Guest House website with modern UI/UX, clean code and better user functionalities.
 
 **Project ID:** 78GRB6TY2D  
 **Original Website:** https://www.kingsukhguesthouse.com/
