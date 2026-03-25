@@ -363,9 +363,9 @@ This project is created for educational purposes as part of a Web Developer Inte
 
 **Version:** 1.0  
 **Last Updated:** February 2026  
-**Developer:** [Your Name]  
-**Project Timeline:** 25 days
+**Developer:** [HARIHARAN A]  
+**Project Timeline:** 45 days
 
 ---
 
-Made with ❤️ for Kingsukh Guest House
+
